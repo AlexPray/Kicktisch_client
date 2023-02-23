@@ -1,46 +1,38 @@
-# Getting Started with Create React App
+# Work in progress
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### introduction
 
-## Available Scripts
+I recently started this project. It will be an animated mobile-first football table website
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+#### Figma Design: https://www.figma.com/file/2rgTHj1EKQ8ZHRo26OWB9Q/Kicktisch-Screendesign?node-id=295%3A317&t=1I2OWgA4CJBfuFi0-0
+There is a draft and main page in my figma file. The lower frames on the main page are the definitive 4 mobile and desktop designs
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### development plan
 
-### `npm test`
+**DevStack:** React, Express, MongoDB, PayloadCMS,
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Tools/Librarys:** Tailwind CSS, GSAP(animation), Webstorm, ?Docker(for learning purpose), Redux
 
-### `npm run build`
+**V1.0** Will be a simple React Website working with PayloadCMS
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**V2.0** implemented animations with GSAP
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**V3.0** implemented Cart with help of Redux and dockerize the project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Challenges during this project
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Payload CMS was released in early 2021 hence there isn't much content out there except the official documentation to help me with possible issues.
+  I will still try to make it work and if I manage this, I will learn a lot
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Most animations aren't too difficult to implement, but I have some complicated ideas like letting the ball from the Logo fall down the display while scrolling and get kicked left and right by the football figure
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- This will be the first time I work with Tailwind CSS and i am excited to learn this CSS framework.
