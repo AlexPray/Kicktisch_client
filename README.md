@@ -1,7 +1,5 @@
 # Work in progress
-
 ### introduction
-
 I recently started this project. It will be an animated mobile-first football table website
 
 <br>
