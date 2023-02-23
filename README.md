@@ -3,7 +3,7 @@
 I recently started this project. It will be an animated mobile-first football table website
 
 #### Figma Design: https://www.figma.com/file/2rgTHj1EKQ8ZHRo26OWB9Q/Kicktisch-Screendesign?node-id=295%3A317&t=1I2OWgA4CJBfuFi0-0
-There is a draft and main page in my figma file. The lower frames on the main page are the definitive 4 mobile and desktop designs
+The lower frames on the main page are the definitive 4 mobile and desktop designs.
 
 <br>
 
