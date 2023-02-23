@@ -9,7 +9,7 @@ There is a draft and main page in my figma file. The lower frames on the main pa
 
 ### development plan
 
-**DevStack:** React, Express, MongoDB, PayloadCMS,
+**DevStack:** React, Express, MongoDB, PayloadCMS, Typescript
 
 **Tools/Librarys:** Tailwind CSS, GSAP(animation), Webstorm, ?Docker(for learning purpose), Redux
 
